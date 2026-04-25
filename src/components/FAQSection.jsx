@@ -9,7 +9,7 @@ const faqs = [
   },
   {
     question: 'Quel est le montant de la caution (dépôt de garantie) ?',
-    answer: 'La caution varie selon la catégorie du véhicule : entre 2 000 MAD pour les véhicules économiques et 10 000 MAD pour les véhicules de luxe. Elle est entièrement remboursable sous 48h après le retour du véhicule en bon état.',
+    answer: 'La caution varie selon la catégorie du véhicule : entre 2 000 MAD pour les véhicules économiques et 10 000 MAD pour les véhicules de luxe. Elle est entièrement remboursable après le retour du véhicule en bon état.',
   },
   {
     question: 'L\'assurance est-elle incluse ?',
@@ -32,7 +32,7 @@ const faqsAr = [
   },
   {
     question: 'ما هو مبلغ التأمين (الوديعة)؟',
-    answer: 'تختلف الوديعة حسب فئة المركبة: بين 2000 درهم للمركبات الاقتصادية و10000 درهم للمركبات الفاخرة. تُسترد بالكامل خلال 48 ساعة بعد إعادة المركبة بحالة جيدة.',
+    answer: 'تختلف الوديعة حسب فئة المركبة: بين 2000 درهم للمركبات الاقتصادية و10000 درهم للمركبات الفاخرة. تُسترد بالكامل بعد إعادة المركبة بحالة جيدة.',
   },
   {
     question: 'هل التأمين مشمول؟',
